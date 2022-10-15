@@ -1,0 +1,2247 @@
+@media (min-width: 1400px) {
+
+    /*-----------banner part start-----------*/
+    #banner {
+        background: #fef8ff;
+        padding: 145px 0 298px;
+    }
+
+    .banner_img img {
+        right: -36px;
+    }
+
+    /*-----------banner part end-----------*/
+    /*-----------cetagories part start-----------*/
+    .cetagories_col .overlay {
+        top: -38px;
+        left: -30px;
+        width: 377px;
+    }
+
+    /*-----------cetagories part end-----------*/
+    /*-----------partneras part start-----------*/
+    .partner_main {
+        padding-top: 40px;
+    }
+
+    /*-----------partneras part end-----------*/
+    /*-----------remote worker part start-----------*/
+    .remoworkers_img .overlay {
+        right: 90px;
+    }
+
+    /*-----------remote worker part end-----------*/
+    /*-----------footer part start-----------*/
+    .contact #input_button {
+        width: 32%;
+    }
+
+    /*-----------footer part end-----------*/
+
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /*-----------banner part start-----------*/
+    .banner_img img {
+        right: -24px;
+    }
+
+    /*-----------banner part end-----------*/
+    /*-----------partneras part start-----------*/
+    .partner_main {
+        padding-top: 40px;
+    }
+
+    /*-----------partneras part end-----------*/
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /*-----------manu part start-----------*/
+    .main_manu ul li a {
+        font-size: 18px;
+        margin: 0 13px;
+    }
+
+    /*-----------manu part end-----------*/
+    /*-----------banner part start-----------*/
+    #banner {
+        padding: 110px 0 140px;
+    }
+
+    .banner_text h1 {
+        font-size: 57px;
+    }
+
+    .banner_img img {
+        position: absolute;
+        right: -8px;
+        top: 20px;
+    }
+
+    /*-----------banner part end-----------*/
+    /*-----------get & post part start-----------*/
+    .get_text_left p input {
+        width: 164px;
+    }
+
+    .get_text_middle #section {
+        width: 166px;
+    }
+
+    .get_text_last {
+        width: 67%;
+    }
+
+    .get_text_last {
+        margin-right: 10px;
+    }
+
+    .get_text_last #section2 {
+        width: 100px;
+    }
+
+    .get_main .search {
+        width: 29.56%;
+    }
+
+    /*-----------get & post part end-----------*/
+    /*-----------categories part start-----------*/
+    .cetagories_col .overlay {
+        position: absolute;
+        top: -23px;
+        left: -25px;
+        width: 270px;
+        height: 320px;
+        padding-top: 70px;
+    }
+
+    /*-----------categories part end-----------*/
+    /*-----------recents jobs part start-----------*/
+    .recent_left_manu P input {
+        width: 256px;
+    }
+
+    .recent_dropdown p #location {
+        width: 270px;
+    }
+
+    .recent_dropdown {
+        width: 66.66%;
+        margin-right: 10px;
+    }
+
+    /*-----------recents jobs part end-----------*/
+    /*-----------remote workers part start-----------*/
+    .remoworkers_img .overlay {
+        right: 33px;
+    }
+
+    /*-----------remote workers part end-----------*/
+    /*-----------testimonial part start-----------*/
+    .testi_last_text p {
+        font-size: 13px;
+        line-height: 17px;
+        padding-top: 11px;
+        text-align: justify;
+    }
+
+    /*-----------testimonial part end-----------*/
+    /*-----------partners part start-----------*/
+    .milestone_col {
+        padding-right: 5px;
+        padding-bottom: 10px;
+    }
+
+    .padleft {
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+
+    .padtop {
+        padding-top: 10px;
+    }
+
+    .varticalAfter h3::before {
+        bottom: -45px;
+        left: -5px;
+    }
+
+    .varticalAfter h3::after {
+        right: -41px;
+        top: 12px;
+        height: 170px;
+    }
+
+    .partners_main {
+        padding-top: 0;
+    }
+
+    .partner_main {
+        padding-top: 30px;
+    }
+
+    /*-----------partners part end-----------*/
+    /*-----------footer part start-----------*/
+    .contact #input_button {
+        width: 31%;
+    }
+
+    .footer_last {
+        text-align: center;
+    }
+
+    .footer_last h3 {
+        display: inline-block;
+    }
+
+    .footer_last p {
+        width: 40%;
+        margin: 0 auto;
+    }
+
+    .footer_last .contact {
+        padding: 30px 30% 0;
+    }
+
+    .footer_last ul {
+        justify-content: center;
+    }
+
+    /*-----------footer part end-----------*/
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /*---------manu part start-----------*/
+    .main_manu .navbar-brand img {
+        width: 115px;
+        margin-left: 20px;
+    }
+
+    #manu {
+        padding-bottom: 10px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .small_main {
+        position: relative;
+    }
+
+    .small_main .navbar-toggler {
+        position: absolute;
+        right: 50px;
+        top: 40px;
+    }
+
+    .small_main .navbar-toggler i {
+        font-size: 22px;
+    }
+
+    .small_main .sing_up a i {
+        display: block;
+        line-height: 40px;
+    }
+
+    .main_manu .sing_up a {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        padding: 0;
+        text-align: center;
+        margin-top: 42px;
+    }
+
+    .main_manu .sing_up a span {
+        display: none;
+    }
+
+    .main_manu .sing_up a {
+        position: absolute;
+        top: -4px;
+        right: 13px;
+    }
+
+    .main_manu .navbar-collapse {
+        background: linear-gradient(to right, #00b8ef 0%, #58d2f5 100%);
+        ;
+        padding: 40px 0;
+        border-radius: 0 0 100px 0;
+        box-shadow: 3px 20px 20px rgba(0, 0, 0, 0.25);
+
+    }
+
+    .main_manu ul li a {
+        padding-top: 0 !important;
+        line-height: 40px;
+        padding: 5px 0 !important;
+        border-bottom: 1px solid #00b8ef;
+        text-align: center;
+        margin: 0;
+        color: #222222;
+        font-weight: 500;
+    }
+
+    .main_manu ul li a:after {
+        display: none;
+    }
+
+    .main_manu ul .last-manu a {
+        border-bottom: 0;
+    }
+
+    .main_manu ul li a:hover {
+        color: #fff;
+    }
+
+    #manu {
+        border-top: 0;
+    }
+    /*----------manu fix--------*/
+    .menu_fix {
+        padding-bottom: 10px !important;
+    }
+
+    .menu_fix .sing_up a {
+        margin-top: 30px;
+    }
+
+    .menu_fix .navbar-toggler {
+        top: 30px;
+    }
+
+    .menu_fix .main_manu ul li a {
+        padding: 5px 0 !important;
+    }
+
+    .menu_fix .navbar-collapse {
+        margin-top: 10px;
+    }
+    /*----------manu active--------*/
+    .main_manu ul li .active {
+        color: #fff;
+    }
+
+    /*---------manu part end-----------*/
+    /*---------singUp part start-----------*/
+    .SingUp_left_text h3 {
+        display: none;
+    }
+
+    .left_logo img {
+        display: none;
+    }
+
+    .singUp_col {
+        padding: 20px 0 100px;
+    }
+
+    .SingUp_left_text p {
+        display: none;
+    }
+
+    .nav_tabs ul {
+        left: 0;
+        top: 20px;
+    }
+
+    .SingUp_form {
+        margin-top: -120px;
+        padding-bottom: 50px;
+    }
+
+    .modal-content {
+        padding: 0;
+        margin: 0 15%;
+    }
+
+    .modal-header .close i {
+        right: -25px;
+        top: -25px;
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+    }
+
+    .sing_main {
+        margin: 0;
+    }
+
+    .SingUp_form_main {
+        padding: 0 20px;
+        margin: 0 15%;
+    }
+
+    /*---------singUp part end-----------*/
+    /*---------banner part start-----------*/
+    #banner {
+        padding: 80px 0 750px;
+    }
+
+    .banner_text h1 {
+        font-size: 71px;
+        line-height: 80px;
+    }
+
+    .banner_text p {
+        font-size: 18px;
+        line-height: 23px;
+        padding-right: 10%;
+    }
+
+    .banner_img img {
+        right: 5px;
+        top: 15px;
+    }
+
+    /*---------banner part end-----------*/
+    /*---------post or get part start-----------*/
+    .post_or_get_main ul li button {
+        width: 100%;
+    }
+
+    .get_text_left p input {
+        width: 58.18%;
+    }
+
+    .get_text_middle #section {
+        width: 67.41%;
+        text-align: center;
+    }
+
+    .get_text_last {
+        width: 100%;
+        margin-top: 20px;
+        margin-right: 0;
+    }
+
+    .get_text_last #section2 {
+        width: 90.27%;
+        text-align: center;
+    }
+
+    .get_main .search {
+        width: 100%;
+        border-radius: 30px;
+        margin: 20px 25% 0;
+    }
+
+    .get_job_main {
+        box-shadow: 0 15px 15px rgba(140, 140, 140, 0.30);
+    }
+
+    /*---------post or get part end-----------*/
+    /*---------categories part start-----------*/
+    .common_head h3 {
+        font-size: 28px;
+    }
+
+    .common_head p {
+        line-height: 20px;
+        padding-top: 30px;
+        width: 45%;
+        text-align: center;
+    }
+
+    .cetagories_col .overlay {
+        transform: scale(1);
+    }
+
+    .cetagories_col .overlay {
+        top: -38px;
+        left: 0px;
+        padding-top: 40px;
+        width: 100%;
+        height: 270px;
+    }
+
+    .cetagories_col {
+        background: transparent;
+    }
+
+    #cetagories {
+        padding: 50px 0 0px;
+    }
+
+    .cetagories_col {
+        padding: 65px 0 80px;
+    }
+
+    /*---------categories part end-----------*/
+    /*---------works part start-----------*/
+    .works_text p {
+        font-size: 15px;
+        line-height: 19px;
+        padding-top: 10px;
+        text-align: center;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .works_icon::after {
+        display: none;
+    }
+
+    .works_col {
+        padding-bottom: 30px;
+    }
+
+    .works_col .works_icon {
+        background: var(--hover);
+    }
+
+    #works {
+        background: #f5f5f5;
+        padding: 55px 0 15pxrecentjobs
+    }
+
+    .last_works {
+        padding-top: 30px;
+    }
+
+    .last_works p {
+        width: 60%;
+    }
+
+    /*---------works part end-----------*/
+    /*---------recentjobs part start-----------*/
+    #recentjobs {
+        padding: 50px 0 50px;
+    }
+
+    .recent_left_manu P input {
+        width: 146px;
+    }
+
+    .recent_dropdown {
+        width: 68%;
+        margin-right: 15px;
+    }
+
+    .recent_dropdown p #location {
+        width: 70.46%;
+        text-align: center;
+    }
+
+    .recent_manu_last {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .recent_search {
+        width: 28%;
+        margin: 0;
+    }
+
+    .recent_search a {
+        padding: 7px 0;
+        display: block;
+        text-align: center;
+        border-radius: 30px;
+    }
+
+    .recent_chackbox ul li p {
+        font-size: 14px;
+    }
+
+    .recent_body_text {
+        padding-top: 15px;
+        padding-left: 15px;
+    }
+
+    .recent_body_text span {
+        font-size: 20px;
+    }
+
+    .recent_body_text h3 {
+        font-size: 45px;
+        line-height: 44px;
+    }
+
+    .recent_body_text p {
+        font-size: 20px;
+    }
+
+    .recent_location {
+        margin-top: 30px;
+        margin-left: 5%;
+    }
+
+    .recent_location p {
+        padding: 10px 0;
+        border-radius: 30px;
+        text-align: center;
+        border: 1px solid #fff;
+    }
+
+    .salarie {
+        margin-top: 30px;
+        margin-right: 10%;
+    }
+
+    .salarie p {
+        padding: 10px 0;
+        border-radius: 30px;
+        text-align: center;
+        border: 1px solid #fff;
+    }
+
+    .recent_body_col {
+        background: linear-gradient(to left, #00b8ef 0%, #58d2f5 100%);
+    }
+
+    .recent_body_col .recent_body_text span,
+    .recent_body_col .recent_body_text h3,
+    .recent_body_col .recent_body_text p,
+    .recent_body_col .salarie p,
+    .recent_body_col .recent_location p {
+        color: #fff;
+    }
+
+    .recent_body_col .view_button a {
+        background: #fff;
+        color: var(--head);
+    }
+
+    .view_button {
+        margin: 0 5%;
+    }
+
+    .view_button a {
+        width: 100%;
+        border-radius: 30px;
+    }
+
+    .recent_body_col {
+        padding: 10px 10px 20px;
+    }
+
+    .text-end a {
+        width: 100%;
+        text-align: center;
+    }
+
+    .common_bottom_right a {
+        padding: 10px 0;
+        border-radius: 30px;
+    }
+
+    .common_bottom_right a {
+        font-size: 17px;
+    }
+
+    .common_bottom_right a i {
+        font-size: 16px;
+    }
+
+    .common_bottom_left p {
+        font-size: 16px;
+        text-align: center;
+        padding-top: 0;
+        padding-bottom: 0px;
+        line-height: 40px;
+    }
+
+    .recent_body_img img {
+        width: 180px;
+    }
+
+    /*---------recentjobs part end-----------*/
+    /*---------short banner part start-----------*/
+    .short_banner_col h3,
+    .short_banner_col span,
+    .short_banner_col p,
+    .short_banner_col a,
+    .short_banner_col a i {
+        color: #000;
+    }
+
+    .short_banner_col:hover h3,
+    .short_banner_col:hover span,
+    .short_banner_col:hover p {
+        color: #000;
+    }
+
+    .short_banner_col:hover a,
+    .short_banner_col:hover a i {
+        color: #fff;
+    }
+
+    .short_banner_col {
+        background: var(--hover2);
+        margin-bottom: 30px;
+    }
+
+    .short_banner_col span {
+        font-size: 14px;
+    }
+
+    .short_banner_col p {
+        font-size: 14px;
+        line-height: 20px;
+        text-align: justify;
+    }
+
+    #short_banner {
+        padding-bottom: 20px;
+    }
+
+    /*---------short banner part end-----------*/
+    /*---------remote workers part start-----------*/
+    .remoworkers_col {
+        margin-top: 30px;
+    }
+
+    .remoworkers_col .remoworkers_last a {
+        color: #00b8ef;
+    }
+
+    .remoworkers_col .remoworkers_last::after {
+        width: 100%;
+    }
+
+    .remoworkers_col {
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.20);
+    }
+
+    .remoworkers_col {
+        padding: 15px 30px 10px;
+    }
+
+    .remoworkers_last::after {
+        bottom: -10px;
+    }
+
+    .bottom_text ul li:nth-child(1) {
+        padding: 0;
+    }
+
+    .bottom_text ul li {
+        padding: 5px 0;
+    }
+
+    .remoworkers_img img {
+        width: 110px;
+    }
+
+    .star {
+        padding-top: 5px;
+    }
+
+    .remoworkers_top h3 {
+        padding-top: 10px;
+    }
+
+    .remoworkers_col {
+        margin-bottom: 20px;
+    }
+
+    .remoworkers_img .overlay {
+        right: 23%;
+        bottom: 10px;
+    }
+
+    /*---------remote workers part end-----------*/
+    /*---------testimonial part start-----------*/
+    #testimonial {
+        padding: 50px 0 50px;
+    }
+
+    .testimonial_col {
+        margin-bottom: 30px;
+    }
+
+    .teslimonial_images .overlay1 {
+        bottom: 32px;
+    }
+
+    .testimonial_last {
+        padding-top: 0;
+    }
+
+    .testi_last_text {
+        padding-top: 0;
+        text-align: center;
+    }
+
+    .testi_last_text ul {
+        justify-content: center;
+    }
+
+    .testi_last_text p {
+        font-size: 16px;
+        line-height: 20px;
+        padding-top: 10px;
+        text-align: center;
+        width: 95%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .testymonial_slider .slick-dots {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .teslimonial_images .overlay1 {
+        bottom: 10px;
+    }
+
+    .testymonial_slider .slick-slide {
+        padding: 0 5px;
+    }
+
+    .teslimonial_images .overlay2,
+    .testi_last_left .overlay2 {
+        right: 45px;
+        top: 30px;
+    }
+
+    /*---------testimonial part end-----------*/
+    /*---------partners part start-----------*/
+    #partners {
+        padding-top: 50px;
+    }
+
+    .partsml_width {
+        width: 50%;
+    }
+
+    .partners_logo {
+        padding: 20px 10px;
+    }
+
+    .partners_main {
+        padding: 30px 0 10px;
+    }
+
+    /*---------partners part end-----------*/
+    /*---------footer part start-----------*/
+    .footer_logo a img {
+        width: 150px;
+    }
+
+    .footer_logo::after {
+        bottom: -10px;
+    }
+
+    #footer {
+        padding: 20px 0 0;
+    }
+
+    .footer_common_head {
+        padding-top: 0;
+    }
+
+    .footer_common_head h3 {
+        padding-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .footer_left p {
+        font-size: 15px;
+        line-height: 20px;
+        text-align: justify;
+    }
+
+    .footer_last p {
+        width: 93%;
+    }
+
+    .contact #input_text {
+        width: 60%;
+    }
+
+    .contact #input_button {
+        width: 35%;
+    }
+
+    /*---------footer part end-----------*/
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /*---------manu part start-----------*/
+    .main_manu .navbar-brand img {
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    #manu {
+        padding-bottom: 10px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .small_main {
+        position: relative;
+    }
+
+    .small_main .navbar-toggler {
+        position: absolute;
+        right: 50px;
+        top: 40px;
+    }
+
+    .small_main .navbar-toggler i {
+        font-size: 22px;
+    }
+
+    .small_main .sing_up a i {
+        display: block;
+        line-height: 40px;
+    }
+
+    .main_manu .sing_up a {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        padding: 0;
+        text-align: center;
+        margin-top: 42px;
+    }
+
+    .main_manu .sing_up a span {
+        display: none;
+    }
+
+    .main_manu .sing_up a {
+        position: absolute;
+        top: -4px;
+        right: 13px;
+    }
+
+    .main_manu .navbar-collapse {
+        background: linear-gradient(to right, #00b8ef 0%, #58d2f5 100%);
+        ;
+        padding: 40px 0;
+        border-radius: 0 0 100px 0;
+        box-shadow: 3px 20px 20px rgba(0, 0, 0, 0.25);
+
+    }
+
+    .main_manu ul li a {
+        padding-top: 0 !important;
+        line-height: 40px;
+        padding: 5px 0 !important;
+        border-bottom: 1px solid #00b8ef;
+        text-align: center;
+        margin: 0;
+        color: #222222;
+        font-weight: 500;
+    }
+
+    .main_manu ul li a:after {
+        display: none;
+    }
+
+    .main_manu ul .last-manu a {
+        border-bottom: 0;
+    }
+
+    .main_manu ul li a:hover {
+        color: #fff;
+    }
+
+    #manu {
+        border-top: 0;
+    }
+    
+    /*----------manu fix--------*/
+    .menu_fix {
+        padding-bottom: 10px !important;
+    }
+
+    .menu_fix .sing_up a {
+        margin-top: 30px;
+    }
+
+    .menu_fix .navbar-toggler {
+        top: 30px;
+    }
+
+    .menu_fix .main_manu ul li a {
+        padding: 5px 0 !important;
+    }
+
+    .menu_fix .navbar-collapse {
+        margin-top: 10px;
+    }
+
+    /*----------manu active--------*/
+    .main_manu ul li .active {
+        color: #fff;
+    }
+
+    /*---------manu part end-----------*/
+    /*---------singUp part start-----------*/
+    .SingUp_left_text h3 {
+        display: none;
+    }
+
+    .left_logo img {
+        display: none;
+    }
+
+    .singUp_col {
+        padding: 20px 0 100px;
+    }
+
+    .SingUp_left_text p {
+        display: none;
+    }
+
+    .nav_tabs ul {
+        left: 0;
+        top: 20px;
+    }
+
+    .SingUp_form {
+        margin-top: -120px;
+        padding-bottom: 30px;
+    }
+
+    .modal-content {
+        padding: 0;
+        margin: 0 8%;
+    }
+
+    .modal-header .close i {
+        right: -25px;
+        top: -25px;
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+    }
+
+    .sing_main {
+        margin: 0;
+    }
+
+    .Sing_main_toptext {
+        text-align: right !important;
+        padding-right: 8px;
+    }
+
+    .Sing_main_toptext h3 {
+        font-size: 25px;
+    }
+
+    .Sing_main_toptext p {
+        margin-top: -5px;
+    }
+
+    .SingUp_form_main {
+        padding: 0 20px;
+        margin: 0 15%;
+    }
+
+    /*---------singUp part end-----------*/
+    /*---------banner part start-----------*/
+    #banner {
+        padding: 50px 0 545px;
+    }
+
+    .banner_text h1 {
+        font-size: 52px;
+        line-height: 57px;
+    }
+
+    .banner_text p {
+        font-size: 18px;
+        line-height: 23px;
+        padding-right: 10%;
+    }
+
+    .banner_img img {
+        right: 5px;
+        top: -13px;
+    }
+
+    /*---------banner part end-----------*/
+    /*---------post or get part start-----------*/
+    .post_or_get_main ul li button {
+        width: 100%;
+    }
+
+    .get_text_left p input {
+        width: 58.18%;
+    }
+
+    .get_text_middle #section {
+        width: 79.15%;
+    }
+
+    .get_text_last {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .get_text_last #section2 {
+        width: 86.33%;
+    }
+
+    .get_main .search {
+        width: 100%;
+        border-radius: 30px;
+        margin: 20px 25% 0;
+    }
+
+    .get_job_main {
+        box-shadow: 0 15px 15px rgba(140, 140, 140, 0.30);
+    }
+
+    /*---------post or get part end-----------*/
+    /*---------categories part start-----------*/
+    .common_head h3 {
+        font-size: 28px;
+    }
+
+    .common_head p {
+        line-height: 20px;
+        padding-top: 30px;
+        width: 70%;
+        text-align: center;
+    }
+
+    .cetagories_col .overlay {
+        transform: scale(1);
+    }
+
+    .cetagories_col .overlay {
+        top: -38px;
+        left: 0px;
+        padding-top: 40px;
+        width: 100%;
+        height: 270px;
+    }
+
+    .cetagories_col {
+        background: transparent;
+    }
+
+    #cetagories {
+        padding: 50px 0 0px;
+    }
+
+    .cetagories_col {
+        padding: 65px 0 80px;
+    }
+
+    /*---------categories part end-----------*/
+    /*---------works part start-----------*/
+    .works_text p {
+        font-size: 15px;
+        line-height: 19px;
+        padding-top: 10px;
+        text-align: center;
+        width: 82%;
+        margin: 0 auto;
+    }
+
+    .works_icon::after {
+        display: none;
+    }
+
+    .works_col {
+        padding-bottom: 30px;
+    }
+
+    .works_col .works_icon {
+        background: var(--hover);
+    }
+
+    #works {
+        background: #f5f5f5;
+        padding: 55px 0 15pxrecentjobs
+    }
+
+    /*---------works part end-----------*/
+    /*---------recentjobs part start-----------*/
+    #recentjobs {
+        padding: 50px 0 50px;
+    }
+
+    .recent_left_manu P input {
+        width: 166px;
+    }
+
+    .recent_dropdown {
+        width: 100%;
+        margin-right: 0px;
+    }
+
+    .recent_dropdown p #location {
+        width: 87.46%;
+    }
+
+    .recent_search {
+        width: 100%;
+        margin: 0 25%;
+    }
+
+    .recent_search a {
+        padding: 7px 0;
+        display: block;
+        text-align: center;
+        margin-top: 30px;
+        border-radius: 30px;
+    }
+
+    .recent_chackbox ul {
+        flex-wrap: wrap;
+    }
+
+    .recent_chackbox ul li {
+        width: 50%;
+        padding-left: 26%;
+    }
+
+    .recent_chackbox ul li:nth-child(2),
+    .recent_chackbox ul li:nth-child(4),
+    .recent_chackbox ul li:nth-child(6) {
+        padding-left: 3%;
+    }
+
+    .recent_body_text {
+        padding-top: 0;
+        padding-left: 15px;
+    }
+
+    .recent_body_text h3 {
+        font-size: 27px;
+        line-height: 28px;
+    }
+
+    .recent_location {
+        margin-top: 30px;
+        margin-left: 30%;
+    }
+
+    .recent_location p {
+        padding: 10px 0;
+        border-radius: 30px;
+        text-align: center;
+        border: 1px solid #fff;
+    }
+
+    .salarie {
+        margin-top: 30px;
+        margin-right: 30%;
+    }
+
+    .salarie p {
+        padding: 10px 0;
+        border-radius: 30px;
+        text-align: center;
+        border: 1px solid #fff;
+    }
+
+    .recent_body_col {
+        background: linear-gradient(to left, #00b8ef 0%, #58d2f5 100%);
+    }
+
+    .recent_body_col .recent_body_text span,
+    .recent_body_col .recent_body_text h3,
+    .recent_body_col .recent_body_text p,
+    .recent_body_col .salarie p,
+    .recent_body_col .recent_location p {
+        color: #fff;
+    }
+
+    .recent_body_col .view_button a {
+        background: #fff;
+        color: var(--head);
+    }
+
+    .view_button {
+        margin: 0 14%;
+    }
+
+    .view_button a {
+        width: 100%;
+        border-radius: 30px;
+    }
+
+    .recent_body_col {
+        padding: 10px 10px 20px;
+    }
+
+    .text-end a {
+        width: 100%;
+        text-align: center;
+    }
+
+    .common_bottom_right a {
+        padding: 10px 0;
+        border-radius: 30px;
+    }
+
+    .common_bottom_right a {
+        font-size: 17px;
+    }
+
+    .common_bottom_right a i {
+        font-size: 16px;
+    }
+
+    .common_bottom_left p {
+        font-size: 16px;
+        text-align: center;
+        padding-top: 0;
+        padding-bottom: 5px;
+        line-height: 18px;
+    }
+
+    /*---------recentjobs part end-----------*/
+    /*---------short banner part start-----------*/
+    .short_banner_col h3,
+    .short_banner_col span,
+    .short_banner_col p,
+    .short_banner_col a,
+    .short_banner_col a i {
+        color: #000;
+    }
+
+    .short_banner_col:hover h3,
+    .short_banner_col:hover span,
+    .short_banner_col:hover p {
+        color: #000;
+    }
+
+    .short_banner_col:hover a,
+    .short_banner_col:hover a i {
+        color: #fff;
+    }
+
+    .short_banner_col {
+        background: var(--hover2);
+        margin-bottom: 30px;
+    }
+
+    .short_banner_col span {
+        font-size: 14px;
+    }
+
+    .short_banner_col p {
+        font-size: 14px;
+        line-height: 20px;
+        text-align: justify;
+    }
+
+    #short_banner {
+        padding-bottom: 20px;
+    }
+
+    /*---------short banner part end-----------*/
+    /*---------remote workers part start-----------*/
+    .remoworkers_col {
+        margin-top: 30px;
+    }
+
+    .remoworkers_col .remoworkers_last a {
+        color: #00b8ef;
+    }
+
+    .remoworkers_col .remoworkers_last::after {
+        width: 100%;
+    }
+
+    .remoworkers_col {
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.20);
+    }
+
+    .remoworkers_col {
+        padding: 15px 30px 10px;
+    }
+
+    .remoworkers_last::after {
+        bottom: -10px;
+    }
+
+    .bottom_text ul li:nth-child(1) {
+        padding: 0;
+    }
+
+    .bottom_text ul li {
+        padding: 5px 0;
+    }
+
+    .remoworkers_img img {
+        width: 110px;
+    }
+
+    .star {
+        padding-top: 5px;
+    }
+
+    .remoworkers_top h3 {
+        padding-top: 10px;
+    }
+
+    .remoworkers_col {
+        margin-bottom: 20px;
+    }
+
+    .remoworkers_img .overlay {
+        right: 33%;
+        bottom: 10px;
+    }
+
+    /*---------remote workers part end-----------*/
+    /*---------testimonial part start-----------*/
+    #testimonial {
+        padding: 50px 0 50px;
+    }
+
+    .testimonial_col {
+        margin-bottom: 30px;
+    }
+
+    .teslimonial_images .overlay1 {
+        bottom: 32px;
+    }
+
+    .testimonial_last {
+        padding-top: 0;
+    }
+
+    .testi_last_text {
+        padding-top: 0;
+        text-align: center;
+    }
+
+    .testi_last_text ul {
+        justify-content: center;
+    }
+
+    .testi_last_text p {
+        font-size: 16px;
+        line-height: 20px;
+        padding-top: 10px;
+        text-align: center;
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .testymonial_slider .slick-dots {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .testymonial_slider .slick-slide {
+        padding: 0 5px;
+    }
+
+    /*---------testimonial part end-----------*/
+    /*---------partners part start-----------*/
+    #partners {
+        padding-top: 50px;
+    }
+
+    .milestone_col {
+        padding-right: 0;
+        padding-bottom: 20px;
+        text-align: center !important;
+    }
+
+    .varticalAfter {
+        text-align: center !important;
+    }
+
+    .padleft {
+        padding-right: 0;
+        padding-left: 0px;
+    }
+
+    .varticalAfter h3::before {
+        display: none;
+    }
+
+    .varticalAfter h3::after {
+        display: none;
+    }
+
+    .padtop {
+        padding-top: 10px;
+    }
+
+    .partsml_width {
+        width: 50%;
+    }
+
+    .partners_logo {
+        padding: 20px 10px;
+    }
+
+    .partners_main {
+        padding: 30px 0 10px;
+    }
+
+    /*---------partners part end-----------*/
+    /*---------footer part start-----------*/
+    .footer_logo a img {
+        width: 150px;
+    }
+
+    .footer_logo::after {
+        bottom: -10px;
+    }
+
+    #footer {
+        padding: 20px 0 0;
+    }
+
+    .footer_common_head {
+        padding-top: 0;
+    }
+
+    .footer_common_head h3 {
+        padding-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .footer_left p {
+        font-size: 15px;
+        line-height: 20px;
+        text-align: justify;
+    }
+
+    .footer_last p {
+        width: 80%;
+    }
+
+    .contact #input_text {
+        width: 60%;
+    }
+
+    .contact #input_button {
+        width: 35%;
+    }
+
+    /*---------footer part end-----------*/
+}
+
+@media (max-width: 575.98px) {
+
+    /*---------manu part start-----------*/
+    .main_manu .navbar-brand img {
+        width: 100px;
+        margin-left: 20px;
+    }
+
+    #manu {
+        padding-bottom: 10px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .small_main {
+        position: relative;
+    }
+
+    .small_main .navbar-toggler {
+        position: absolute;
+        right: 50px;
+        top: 40px;
+    }
+
+    .small_main .navbar-toggler i {
+        font-size: 22px;
+    }
+
+    .small_main .sing_up a i {
+        display: block;
+        line-height: 40px;
+    }
+
+    .main_manu .sing_up a {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        padding: 0;
+        text-align: center;
+        margin-top: 42px;
+    }
+
+    .main_manu .sing_up a span {
+        display: none;
+    }
+
+    .main_manu .sing_up a {
+        position: absolute;
+        top: -4px;
+        right: 13px;
+    }
+
+    .main_manu .navbar-collapse {
+        background: linear-gradient(to right, #00b8ef 0%, #58d2f5 100%);
+        ;
+        padding: 40px 0;
+        border-radius: 0 0 100px 0;
+        box-shadow: 3px 20px 20px rgba(0, 0, 0, 0.25);
+
+    }
+
+    .main_manu ul li a {
+        padding-top: 0 !important;
+        line-height: 40px;
+        padding: 5px 0 !important;
+        border-bottom: 1px solid #00b8ef;
+        text-align: center;
+        margin: 0;
+        color: #222222;
+        font-weight: 500;
+    }
+
+    .main_manu ul li a:after {
+        display: none;
+    }
+
+    .main_manu ul .last-manu a {
+        border-bottom: 0;
+    }
+
+    .main_manu ul li a:hover {
+        color: #fff;
+    }
+
+    #manu {
+        border-top: 0;
+    }
+
+
+    /*------menu fix-----------*/
+    .menu_fix {
+        padding-bottom: 10px !important;
+    }
+
+    .menu_fix .sing_up a {
+        margin-top: 30px;
+    }
+
+    .menu_fix .navbar-toggler {
+        top: 30px;
+    }
+
+    .menu_fix .main_manu ul li a {
+        padding: 5px 0 !important;
+    }
+
+    .menu_fix .navbar-collapse {
+        margin-top: 10px;
+    }
+
+    /*----------manu active--------*/
+    .main_manu ul li .active {
+        color: #fff;
+    }
+
+    /*---------manu part end-----------*/
+    /*---------singUp part start-----------*/
+    .SingUp_left_text h3 {
+        display: none;
+    }
+
+    .left_logo img {
+        display: none;
+    }
+
+    .singUp_col {
+        padding: 20px 0 100px;
+    }
+
+    .SingUp_left_text p {
+        display: none;
+    }
+
+    .nav_tabs ul {
+        left: 0;
+        top: 20px;
+    }
+
+    .SingUp_form {
+        margin-top: -120px;
+        padding-bottom: 30px;
+    }
+
+    .modal-content {
+        padding: 0;
+    }
+
+    .modal-header .close i {
+        right: -7px;
+        top: -20px;
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+    }
+
+    .sing_main {
+        margin: 0;
+    }
+
+    .Sing_main_toptext {
+        text-align: right !important;
+        padding-right: 8px;
+    }
+
+    .Sing_main_toptext h3 {
+        font-size: 25px;
+    }
+
+    .Sing_main_toptext p {
+        margin-top: -5px;
+    }
+
+    .SingUp_form_main {
+        padding: 0 20px;
+    }
+
+    /*---------singUp part end-----------*/
+    /*---------banner part start-----------*/
+    #banner {
+        padding: 50px 0 380px;
+    }
+
+    .banner_text h1 {
+        font-size: 36px;
+        line-height: 38px;
+    }
+
+    .banner_text p {
+        font-size: 15px;
+        line-height: 18px;
+        text-align: justify;
+    }
+
+    .banner_img img {
+        right: 5px;
+        top: 15px;
+    }
+
+    /*---------banner part end-----------*/
+    /*---------post or get part start-----------*/
+    .post_or_get_main ul li button {
+        width: 100%;
+    }
+
+    .get_text_left p input {
+        width: 58.18%;
+    }
+
+    .get_text_middle #section {
+        width: 131px;
+    }
+
+    .get_text_last {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .get_text_last #section2 {
+        width: 163px;
+    }
+
+    .get_main .search {
+        width: 100%;
+        margin-top: 20px;
+        border-radius: 30px;
+    }
+
+    .get_job_main {
+        box-shadow: 0 15px 15px rgba(140, 140, 140, 0.30);
+    }
+
+    /*---------post or get part end-----------*/
+    /*---------categories part start-----------*/
+    .common_head h3 {
+        font-size: 28px;
+    }
+
+    .common_head p {
+        line-height: 20px;
+        padding-top: 30px;
+        width: 90%;
+        text-align: justify;
+    }
+
+    .cetagories_col .overlay {
+        transform: scale(1);
+    }
+
+    .cetagories_col .overlay {
+        top: -38px;
+        left: 0px;
+        padding-top: 40px;
+        width: 100%;
+        height: 270px;
+    }
+
+    .cetagories_col {
+        background: transparent;
+    }
+
+    #cetagories {
+        padding: 50px 0 0px;
+    }
+
+    .cetagories_col {
+        padding: 65px 0 80px;
+    }
+
+    /*---------categories part end-----------*/
+    /*---------works part start-----------*/
+    .works_text p {
+        font-size: 15px;
+        line-height: 19px;
+        padding-top: 10px;
+        text-align: justify;
+    }
+
+    .works_icon::after {
+        display: none;
+    }
+
+    .works_col {
+        padding-bottom: 30px;
+    }
+
+    .works_col .works_icon {
+        background: var(--hover);
+    }
+
+    #works {
+        background: #f5f5f5;
+        padding: 55px 0 15pxrecentjobs
+    }
+
+    /*---------works part end-----------*/
+    /*---------recentjobs part start-----------*/
+    #recentjobs {
+        padding: 50px 0 50px;
+    }
+
+    .recent_left_manu P input {
+        width: 166px;
+    }
+
+    .recent_dropdown {
+        width: 100%;
+        margin-right: 0px;
+    }
+
+    .recent_dropdown p #location {
+        width: 203px;
+    }
+
+    .recent_search {
+        width: 100%;
+    }
+
+    .recent_search a {
+        padding: 7px 0;
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+        border-radius: 30px;
+    }
+
+    .recent_chackbox ul {
+        flex-wrap: wrap;
+    }
+
+    .recent_chackbox ul li {
+        width: 50%;
+        padding-left: 3%;
+    }
+
+    .recent_body_text {
+        padding-top: 5px;
+        padding-left: 15px;
+    }
+
+    .recent_body_text h3 {
+        font-size: 19px;
+    }
+
+    .recent_location {
+        border-bottom: 1px solid #fff;
+    }
+
+    .recent_location p {
+        padding-top: 20px;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+    .salarie p {
+        padding-top: 10px;
+        text-align: center;
+    }
+
+    .recent_body_col {
+        background: linear-gradient(to left, #00b8ef 0%, #58d2f5 100%);
+    }
+
+    .recent_body_col .recent_body_text span,
+    .recent_body_col .recent_body_text h3,
+    .recent_body_col .recent_body_text p,
+    .recent_body_col .salarie p,
+    .recent_body_col .recent_location p {
+        color: #fff;
+    }
+
+    .recent_body_col .view_button a {
+        background: #fff;
+        color: var(--head);
+    }
+
+    .view_button a {
+        padding: 10px 90px;
+        border-radius: 30px;
+    }
+
+    .recent_body_col {
+        padding: 10px 10px 20px;
+    }
+
+    .text-end a {
+        width: 100%;
+        text-align: center;
+    }
+
+    .common_bottom_right a {
+        padding: 10px 0;
+        border-radius: 30px;
+    }
+
+    .common_bottom_left p {
+        font-size: 14px;
+        text-align: center;
+        padding-top: 0;
+        padding-bottom: 5px;
+    }
+
+    /*---------recentjobs part end-----------*/
+    /*---------short banner part start-----------*/
+    .short_banner_col h3,
+    .short_banner_col span,
+    .short_banner_col p,
+    .short_banner_col a,
+    .short_banner_col a i {
+        color: #000;
+    }
+
+    .short_banner_col:hover h3,
+    .short_banner_col:hover span,
+    .short_banner_col:hover p {
+        color: #000;
+    }
+
+    .short_banner_col:hover a,
+    .short_banner_col:hover a i {
+        color: #fff;
+    }
+
+    .short_banner_col {
+        background: var(--hover2);
+        margin-bottom: 30px;
+    }
+
+    .short_banner_col span {
+        font-size: 14px;
+    }
+
+    .short_banner_col p {
+        font-size: 14px;
+        line-height: 20px;
+        text-align: justify;
+    }
+
+    #short_banner {
+        padding-bottom: 20px;
+    }
+
+    /*---------short banner part end-----------*/
+    /*---------remote workers part start-----------*/
+    .remoworkers_col {
+        margin-top: 30px;
+    }
+
+    .remoworkers_col .remoworkers_last a {
+        color: #00b8ef;
+    }
+
+    .remoworkers_col .remoworkers_last::after {
+        width: 100%;
+    }
+
+    .remoworkers_col {
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.20);
+    }
+
+    .remoworkers_col {
+        padding: 15px 30px 10px;
+    }
+
+    .remoworkers_last::after {
+        bottom: -10px;
+    }
+
+    .bottom_text ul li:nth-child(1) {
+        padding: 0;
+    }
+
+    .bottom_text ul li {
+        padding: 5px 0;
+    }
+
+    .remoworkers_img img {
+        width: 110px;
+    }
+
+    .star {
+        padding-top: 5px;
+    }
+
+    .remoworkers_top h3 {
+        padding-top: 10px;
+    }
+
+    .remoworkers_col {
+        margin-bottom: 20px;
+    }
+
+    .remoworkers_img .overlay {
+        right: 20%;
+        bottom: 10px;
+    }
+
+    /*---------remote workers part end-----------*/
+    /*---------testimonial part start-----------*/
+    #testimonial {
+        padding: 50px 0 50px;
+    }
+
+    .testimonial_col {
+        margin-bottom: 30px;
+    }
+
+    .testimonial_last {
+        padding-top: 0;
+    }
+
+    .testi_last_text {
+        padding-top: 0;
+        text-align: center;
+    }
+
+    .testi_last_text ul {
+        justify-content: center;
+    }
+
+    .testi_last_text p {
+        font-size: 14px;
+        line-height: 20px;
+        padding-top: 10px;
+        text-align: justify;
+    }
+
+    .testymonial_slider .slick-dots {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .testymonial_slider .slick-slide {
+        padding: 0 5px;
+    }
+
+    /*---------testimonial part end-----------*/
+    /*---------partners part start-----------*/
+    #partners {
+        padding-top: 50px;
+    }
+
+    .milestone_col {
+        padding-right: 0;
+        padding-bottom: 20px;
+        text-align: center !important;
+    }
+
+    .varticalAfter {
+        text-align: center !important;
+    }
+
+    .padleft {
+        padding-right: 0;
+        padding-left: 0px;
+    }
+
+    .varticalAfter h3::before {
+        display: none;
+    }
+
+    .varticalAfter h3::after {
+        display: none;
+    }
+
+    .padtop {
+        padding-top: 10px;
+    }
+
+    .partsml_width {
+        width: 50%;
+    }
+
+    .partners_logo {
+        padding: 20px 10px;
+    }
+
+    .partners_main {
+        padding: 30px 0 10px;
+    }
+
+    /*---------partners part end-----------*/
+    /*---------footer part start-----------*/
+    .footer_logo a img {
+        width: 100px;
+    }
+
+    .footer_logo::after {
+        bottom: -10px;
+    }
+
+    #footer {
+        padding: 20px 0 0;
+    }
+
+    .footer_common_head {
+        padding-top: 0;
+    }
+
+    .footer_common_head h3 {
+        padding-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .footer_left p {
+        font-size: 15px;
+        line-height: 20px;
+        text-align: justify;
+    }
+
+    .footer_last ul {
+        justify-content: center;
+    }
+
+    .footer_last ul li a {
+        margin: 15px 5px 0;
+    }
+
+}
+
+@media (min-width: 350px) and (max-width: 575.98px) {
+
+    /*---------remote workers part start-----------*/
+    .remoworkers_img .overlay {
+        right: 24%;
+        bottom: 10px;
+    }
+
+    /*---------remote workers part end-----------*/
+}
+
+@media (min-width: 389px) and (max-width: 575.98px) {
+
+    /*---------remote workers part start-----------*/
+    .remoworkers_img .overlay {
+        right: 27%;
+    }
+
+    /*---------remote workers part end-----------*/
+    /*---------testimonial part start-----------*/
+    .teslimonial_images .overlay1 {
+        bottom: 15px;
+    }
+
+    /*---------testimonial part end-----------*/
+
+    /*---------footer part start-----------*/
+    .contact #input_button {
+        width: 32%;
+    }
+
+    .foot_smlwith {
+        width: 50%;
+    }
+
+    /*---------footer part end-----------*/
+}
+
+@media (min-width: 450px) and (max-width: 575.98px) {
+
+    /*---------singUp part start-----------*/
+    .SingUp_form_main {
+        padding: 0 18%;
+    }
+
+    /*---------singUp part end-----------*/
+    /*---------remote workers part start-----------*/
+    .remoworkers_img .overlay {
+        right: 30%;
+    }
+
+    /*---------remote workers part end-----------*/
+    /*---------testimonial part start-----------*/
+    .teslimonial_images .overlay1 {
+        bottom: 20px;
+    }
+
+    /*---------testimonial part end-----------*/
+}
+
+@media (min-width: 500px) and (max-width: 575.98px) {
+
+    /*---------remote workers part start-----------*/
+    .remoworkers_img .overlay {
+        right: 33%;
+        bottom: 5px;
+    }
+
+    /*---------remote workers part end-----------*/
+    /*---------testimonial part start-----------*/
+    .teslimonial_images .overlay1 {
+        bottom: 25px;
+    }
+
+    /*---------testimonial part end-----------*/
+}
+
+@media (min-width: 550px) and (max-width: 575.98px) {
+
+    /*---------remote workers part start-----------*/
+    .remoworkers_img .overlay {
+        right: 35%;
+        bottom: 5px;
+    }
+
+    /*---------remote workers part end-----------*/
+    /*---------testimonial part start-----------*/
+    .teslimonial_images .overlay1 {
+        bottom: 30px;
+    }
+
+    /*---------testimonial part end-----------*/
+}
